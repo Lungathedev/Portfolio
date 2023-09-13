@@ -279,12 +279,12 @@
 										<h4>Socials</h4>
 										<div class="d-flex">
 											<!-- Footer-Section-Socials-LinkedIn -->
-											<a href="[enter linkedin link]" class="social-icon si-small bg-white bg-opacity-25 h-bg-linkedin">
+											<a href="www.linkedin.com/in/lunga-magagula-460ba714a" class="social-icon si-small bg-white bg-opacity-25 h-bg-linkedin">
 												<i class="fa-brands fa-linkedin"></i>
 												<i class="fa-brands fa-linkedin"></i>
 											</a>
 											<!-- Footer-Section-Socials-Twitter -->
-											<a href="[enter twitter link]" class="social-icon si-small bg-white bg-opacity-25 h-bg-twitter">
+											<a href="https://twitter.com/LungaGagula" class="social-icon si-small bg-white bg-opacity-25 h-bg-twitter">
 												<i class="fa-brands fa-twitter"></i>
 												<i class="fa-brands fa-twitter"></i>
 											</a>
