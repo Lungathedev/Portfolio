@@ -112,37 +112,37 @@
 											<!-- About-Me-Section-Body-Name-Prefix -->
 											<td class="border-top-0"><strong>Name:</strong></td>
 											<!-- About-Me-Section-Body-Name -->
-											<td class="border-top-0">[Enter name]</td>
+											<td class="border-top-0">Lunga</td>
 										</tr>
 										<tr>
 											<!-- About-Me-Section-Body-Gender-Prefix -->
 											<td><strong>Gender:</strong></td>
 											<!-- About-Me-Section-Body-Gender -->
-											<td>[Enter gender]</td>
+											<td>Male</td>
 										</tr>
 										<tr>
 											<!-- About-Me-Section-Body-Email-Prefix -->
 											<td><strong>Email:</strong></td>
 											<!-- About-Me-Section-Body-Email -->
-											<td>[Enter email]</td>
+											<td>lungathedev@gmail.com</td>
 										</tr>
 										<tr>
 											<!-- About-Me-Section-Body-Cell-number-Prefix -->
 											<td><strong>Phone:</strong></td>
 											<!-- About-Me-Section-Body-Cell-number -->
-											<td>[Enter cell number]</td>
+											<td>0641234569</td>
 										</tr>
 										<tr>
 											<!-- About-Me-Section-Body-Date-of-birth-Prefix -->
 											<td><strong>DOB:</strong></td>
 											<!-- About-Me-Section-Body-Date-of-birth -->
-											<td>[Enter date of birth]</td>
+											<td>1994-12-24</td>
 										</tr>
 										<tr>
 											<!-- About-Me-Section-Body-Nationality-Prefix -->
 											<td><strong>Nationality:</strong></td>
 											<!-- About-Me-Section-Body-Nationality -->
-											<td>[Enter nationality]</td>
+											<td>South African</td>
 										</tr>
 									</tbody>
 								</table>
