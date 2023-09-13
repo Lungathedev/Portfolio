@@ -7,7 +7,7 @@
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="x-ua-compatible" content="IE=edge">
-	<meta name="author" content="Lungathedev.">
+	<meta name="author" content="Lungathedev">
 	<meta name="description" content="My personal resume">
 
 	<!-- Font Imports -->
