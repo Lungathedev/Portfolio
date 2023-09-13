@@ -279,7 +279,7 @@
 										<h4>Socials</h4>
 										<div class="d-flex">
 											<!-- Footer-Section-Socials-LinkedIn -->
-											<a href="www.linkedin.com/in/lunga-magagula-460ba714a" class="social-icon si-small bg-white bg-opacity-25 h-bg-linkedin">
+											<a href="https://www.linkedin.com/in/lunga-magagula-460ba714a" class="social-icon si-small bg-white bg-opacity-25 h-bg-linkedin">
 												<i class="fa-brands fa-linkedin"></i>
 												<i class="fa-brands fa-linkedin"></i>
 											</a>
