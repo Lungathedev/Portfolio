@@ -102,7 +102,7 @@
 							<div class="col-md-5 offset-md-7">
 								<div class="heading-block">
 									<!-- About-Me-Section-Header -->
-									<h2 class="font-secondary">About Me</h2>
+									<h2 class="font-secondary">Let's begin</h2>
 									<!-- About-Me-Section-Body-Text -->
 									<span>[Enter your description about yourself and your qualities.]</span>
 								</div>
