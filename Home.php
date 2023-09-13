@@ -96,7 +96,7 @@
 					</div>
 				</div>
 				<!-- Bottom-Picture-1 -->
-				<div id="section-about" class="section page-section m-0" style="background: #EEE url('Profile3.avif') no-repeat center center; background-size: cover; padding: 100px 0">
+				<div id="section-about" class="section page-section m-0" style="background: #EEE url('Lower-background-picture.jpg') no-repeat center center; background-size: cover; padding: 100px 0">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-5 offset-md-7">
