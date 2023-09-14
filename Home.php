@@ -86,16 +86,11 @@
 							<h2 class="font-secondary">My side of the story</h2>
 						</div>
 						<div style="margin: auto; display: block;">
-								<!--	<video poster="Rocket-launch.jpeg" style="height: auto; width: 100%;" controls> -->
+									<video poster="Rocket-launch.jpeg" style="height: auto; width: 100%;" controls>
 									<!-- Video-Source-URL -->
-  									<source src="https://drive.google.com/file/d/1oKkZPZqV0iZOQlUWNVU1dgcOJGYWM4Pi/view?usp=sharing" type="video/mp4">
+  									<source src="fun.mp4" type="video/mp4">
  									Your browser does not support the video tag.
 									</video>
-						<video poster="Rocket-launch.jpeg" style="height: auto; width: 100%;" controls> -->
-						<source src="https://drive.google.com/file/d/1oKkZPZqV0iZOQlUWNVU1dgcOJGYWM4Pi/preview" type="video/mp4">
-						</video>
-						<iframe src="https://drive.google.com/file/d/1oKkZPZqV0iZOQlUWNVU1dgcOJGYWM4Pi/preview" style="height: auto; width: auto;" allow="autoplay"></iframe>
-						</div>
 						<div class="row justify-content-center col-mb-50 mb-0"></div>
 					</div>
 				</div>
