@@ -94,7 +94,7 @@
 						<video poster="Rocket-launch.jpeg" style="height: auto; width: 100%;" controls> -->
 						<source src="https://drive.google.com/file/d/1oKkZPZqV0iZOQlUWNVU1dgcOJGYWM4Pi/preview" type="video/mp4">
 						</video>
-						<iframe src="https://drive.google.com/file/d/1oKkZPZqV0iZOQlUWNVU1dgcOJGYWM4Pi/preview" style="height: auto; width: auto;" allow="autoplay"></iframe>
+						<iframe src="https://drive.google.com/file/d/1oKkZPZqV0iZOQlUWNVU1dgcOJGYWM4Pi/preview" style="height: 240; width: 320;" allow="autoplay"></iframe>
 						</div>
 						<div class="row justify-content-center col-mb-50 mb-0"></div>
 					</div>
