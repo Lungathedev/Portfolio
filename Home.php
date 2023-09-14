@@ -91,6 +91,7 @@
   									<source src="fun.mp4" type="video/mp4">
  									Your browser does not support the video tag.
 									</video>
+						</div>
 						<div class="row justify-content-center col-mb-50 mb-0"></div>
 					</div>
 				</div>
