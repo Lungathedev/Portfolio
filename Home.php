@@ -91,7 +91,9 @@
   									<source src="https://drive.google.com/file/d/1oKkZPZqV0iZOQlUWNVU1dgcOJGYWM4Pi/view?usp=sharing" type="video/mp4">
  									Your browser does not support the video tag.
 									</video>
-						<iframe src="https://drive.google.com/file/d/1oKkZPZqV0iZOQlUWNVU1dgcOJGYWM4Pi/preview" style="height: auto; width: 100%;" allow="autoplay"></iframe>
+						<video poster="Rocket-launch.jpeg" style="height: auto; width: 100%;" controls> -->
+						<iframe src="https://drive.google.com/file/d/1oKkZPZqV0iZOQlUWNVU1dgcOJGYWM4Pi/preview" style="height: auto; width: auto;" allow="autoplay"></iframe>
+						</video>
 						</div>
 						<div class="row justify-content-center col-mb-50 mb-0"></div>
 					</div>
