@@ -7,8 +7,8 @@
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="x-ua-compatible" content="IE=edge">
-	<meta name="author" content="">
-	<meta name="description" content="">
+	<meta name="author" content="Lungathedev">
+	<meta name="description" content="My personal resume">
 
 	<!-- Font Imports -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -29,7 +29,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Document Title -->
-	<title>Portfolio</title>
+	<title>Lunga's resume</title>
 
 </head>
 
