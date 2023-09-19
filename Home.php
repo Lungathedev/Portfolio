@@ -270,7 +270,7 @@
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
-<a href="" class="text-muted">Feb 14th, 2022</a>
+<a href="" class="text-muted">Completed: Feb 14th, 2022</a>
 </div>
 <div class="entry-title mt-1">
 <h2><a href="https://kannabae.org.za/Port.php">Kannabae platform</a></h2>
@@ -290,7 +290,7 @@
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
-<a href="" class="text-muted">Nov 25th, 2021</a>
+<a href="" class="text-muted">Completed: Nov 25th, 2021</a>
 </div>
 <div class="entry-title mt-1">
 <h2><a href="https://mandlaetfu.org.za/Home.php">Mandla Etfu NPO website application</a></h2>
