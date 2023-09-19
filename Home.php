@@ -270,13 +270,13 @@
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
-<a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
+<a href="#" class="text-muted">Feb 14th, 2022</a>
 </div>
 <div class="entry-title mt-1">
-<h2><a href="#">[Enter project title]</a></h2>
+<h2><a href="#">Kannabae platform</a></h2>
 </div>
 <div class="entry-content mt-4">
-<p class="mb-0">[Enter project description]</p>
+<p class="mb-0">A website application that is used as a tool to request free cannabis from a nonprofit company. The website is integrated with multiple user intefaces as well as databases that enable it coordinate personnel to take orders, prepare orders and deliver them.</p>
 </div>
 </div>
 </div>
@@ -290,38 +290,19 @@
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
-<a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
+<a href="#" class="text-muted">Nov 25th, 2021]</a>
 </div>
 <div class="entry-title mt-1">
-<h2><a href="#">[Enter project title]</a></h2>
+<h2><a href="#">Mandla Etfu NPO website application</a></h2>
 </div>
 <div class="entry-content mt-4">
-<p class="mb-0">[Enter project description]</p>
+<p class="mb-0">A website application that informs people about a nonprofit that is able to raise donation funding by enabling visitors to use the integrated payment methods to make donations. The website has been built with an additional feature that enables donors to leave a special message after they have donated that shows in the donation records displayed on the website.</p>
 </div>
 </div>
 </div>
 </div>
 </div>
-<div class="entry col-md-6 col-lg-4">
-<div class="grid-inner">
-<div class="entry-box-shadow">
-<div class="entry-image mb-0">
-<a href="" data-lightbox="image"><img src="github2.jpeg" alt="Project 3"></a>
-</div>
-<div class="entry-meta-wrapper">
-<div class="entry-meta my-0">
-<a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
-</div>
-<div class="entry-title mt-1">
-<h2><a href="#">[Enter project title]</a></h2>
-</div>
-<div class="entry-content mt-4">
-<p class="mb-0">[Enter project description]</p>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 </div>
 </div>
 </div>
