@@ -255,8 +255,8 @@
 <div class="container">
 <div class="dark">
 <div class="heading-block">
-<h2 class="font-secondary">Latest Articles.</h2>
-<span class="mt-0">Lorem ipsum dolor sit amet.</span>
+<h2 class="font-secondary">Projects</h2>
+<span class="mt-0">completed</span>
 </div>
 </div>
 <div id="posts" class="post-grid row gutter-30 mb-0" data-layout="fitRows">
@@ -264,7 +264,7 @@
 <div class="grid-inner">
 <div class="entry-box-shadow">
 <div class="entry-image mb-0">
-<a href="images/blog/full/17.jpg" data-lightbox="image"><img src="demos/resume/images/blog/1.jpg" alt="Standard Post with Image"></a>
+<a href="" data-lightbox="image"><img src="github1.png" alt="Project 1"></a>
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
@@ -284,7 +284,7 @@
 <div class="grid-inner">
 <div class="entry-box-shadow">
 <div class="entry-image mb-0">
-<a href="images/blog/full/17.jpg" data-lightbox="image"><img src="demos/resume/images/blog/2.jpg" alt="Standard Post with Image"></a>
+<a href="" data-lightbox="image"><img src="heroku.jpg" alt="Project 2"></a>
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
@@ -304,7 +304,7 @@
 <div class="grid-inner">
 <div class="entry-box-shadow">
 <div class="entry-image mb-0">
-<a href="images/blog/full/17.jpg" data-lightbox="image"><img src="demos/resume/images/blog/3.jpg" alt="Standard Post with Image"></a>
+<a href="" data-lightbox="image"><img src="github2.jpeg" alt="Project 3"></a>
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
