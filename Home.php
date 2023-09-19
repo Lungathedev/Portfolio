@@ -268,13 +268,13 @@
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
-<a href="#" class="text-muted">March 25th, 2021</a>
+<a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
 </div>
 <div class="entry-title mt-1">
-<h2><a href="#">You can now listen to headphones.</a></h2>
+<h2><a href="#">[Enter project title]</a></h2>
 </div>
 <div class="entry-content mt-4">
-<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo tenetur...</p>
+<p class="mb-0">[Enter project description]</p>
 </div>
 </div>
 </div>
@@ -288,13 +288,13 @@
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
-<a href="#" class="text-muted">March 25th, 2021</a>
+<a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
 </div>
 <div class="entry-title mt-1">
-<h2><a href="#">Collaboratively monetize multifunctional.</a></h2>
+<h2><a href="#">[Enter project title]</a></h2>
 </div>
 <div class="entry-content mt-4">
-<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo tenetur...</p>
+<p class="mb-0">[Enter project description]</p>
 </div>
 </div>
 </div>
@@ -308,13 +308,13 @@
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
-<a href="#" class="text-muted">March 25th, 2021</a>
+<a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
 </div>
 <div class="entry-title mt-1">
-<h2><a href="#">Professionally disinter-mediate excellent.</a></h2>
+<h2><a href="#">[Enter project title]</a></h2>
 </div>
 <div class="entry-content mt-4">
-<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo tenetur...</p>
+<p class="mb-0">[Enter project description]</p>
 </div>
 </div>
 </div>
