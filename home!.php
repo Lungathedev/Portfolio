@@ -58,7 +58,9 @@
 								<!-- 3rd-Navigation-Icon -->
 								<li class="menu-item"><a class="menu-link" href="#section-about"><i class="bi-person"></i><div>About me</div></a></li>
 								<!-- 4th-Navigation-Icon -->
-								<li class="menu-item"><a class="menu-link" href="#footer"><i class="bi-grid"></i><div>Highlights</div></a></li>
+								<li class="menu-item"><a class="menu-link" href="#section-education"><i class="bi-grid"></i><div>Education</div></a></li>
+								<!-- 5th-Navigation-Icon -->
+								<li class="menu-item"><a class="menu-link" href="#section-articles"><i class="bi-pencil"></i><div>Projects</div></a></li>
 							</ul>
 						</nav>
 					</div>
@@ -250,6 +252,80 @@
 						</div>
 					</div>
 				</div>
+				<!-- Add project section -->
+<div id="section-articles" class="section page-section m-0 bg-color" style="padding: 100px 0">
+<div class="container">
+<div class="dark">
+<div class="heading-block">
+<h2 class="font-secondary">Projects</h2>
+<span class="mt-0">completed</span>
+</div>
+</div>
+<div id="posts" class="post-grid row gutter-30 mb-0" data-layout="fitRows">
+<div class="entry col-md-6 col-lg-4">
+<div class="grid-inner">
+<div class="entry-box-shadow">
+<div class="entry-image mb-0">
+<a href="" data-lightbox="image"><img src="github1.png" alt="Project 1"></a>
+</div>
+<div class="entry-meta-wrapper">
+<div class="entry-meta my-0">
+<a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
+</div>
+<div class="entry-title mt-1">
+<h2><a href="#">[Enter project title]</a></h2>
+</div>
+<div class="entry-content mt-4">
+<p class="mb-0">[Enter project description]</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="entry col-md-6 col-lg-4">
+<div class="grid-inner">
+<div class="entry-box-shadow">
+<div class="entry-image mb-0">
+<a href="" data-lightbox="image"><img src="heroku.jpg" alt="Project 2"></a>
+</div>
+<div class="entry-meta-wrapper">
+<div class="entry-meta my-0">
+<a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
+</div>
+<div class="entry-title mt-1">
+<h2><a href="#">[Enter project title]</a></h2>
+</div>
+<div class="entry-content mt-4">
+<p class="mb-0">[Enter project description]</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="entry col-md-6 col-lg-4">
+<div class="grid-inner">
+<div class="entry-box-shadow">
+<div class="entry-image mb-0">
+<a href="" data-lightbox="image"><img src="github2.jpeg" alt="Project 3"></a>
+</div>
+<div class="entry-meta-wrapper">
+<div class="entry-meta my-0">
+<a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
+</div>
+<div class="entry-title mt-1">
+<h2><a href="#">[Enter project title]</a></h2>
+</div>
+<div class="entry-content mt-4">
+<p class="mb-0">[Enter project description]</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+				<!-- Add project section -->
 			</div>
 		</section><!-- #content end -->
 
