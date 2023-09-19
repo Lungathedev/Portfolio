@@ -266,14 +266,14 @@
 <div class="grid-inner">
 <div class="entry-box-shadow">
 <div class="entry-image mb-0">
-<a href="" data-lightbox="image"><img src="delivery.jpg" alt="Project 1"></a>
+<a href="https://kannabae.org.za/Port.php" data-lightbox="image"><img src="delivery.jpg" alt="Project 1"></a>
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
-<a href="#" class="text-muted">Feb 14th, 2022</a>
+<a href="" class="text-muted">Feb 14th, 2022</a>
 </div>
 <div class="entry-title mt-1">
-<h2><a href="#">Kannabae platform</a></h2>
+<h2><a href="https://kannabae.org.za/Port.php">Kannabae platform</a></h2>
 </div>
 <div class="entry-content mt-4">
 <p class="mb-0">A website application that is used as a tool to request free cannabis from a nonprofit company. The website is integrated with multiple user intefaces as well as databases that enable it coordinate personnel to take orders, prepare orders and deliver them.</p>
@@ -286,14 +286,14 @@
 <div class="grid-inner">
 <div class="entry-box-shadow">
 <div class="entry-image mb-0">
-<a href="" data-lightbox="image"><img src="donations.png" alt="Project 2"></a>
+<a href="https://mandlaetfu.org.za/Home.php" data-lightbox="image"><img src="donations.png" alt="Project 2"></a>
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
-<a href="#" class="text-muted">Nov 25th, 2021</a>
+<a href="" class="text-muted">Nov 25th, 2021</a>
 </div>
 <div class="entry-title mt-1">
-<h2><a href="#">Mandla Etfu NPO website application</a></h2>
+<h2><a href="https://mandlaetfu.org.za/Home.php">Mandla Etfu NPO website application</a></h2>
 </div>
 <div class="entry-content mt-4">
 <p class="mb-0">A website application that informs people about a nonprofit that is able to raise donation funding by enabling visitors to use the integrated payment methods to make donations. The website has been built with an additional feature that enables donors to leave a special message after they have donated that shows in the donation records displayed on the website.</p>
