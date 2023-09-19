@@ -58,7 +58,9 @@
 								<!-- 3rd-Navigation-Icon -->
 								<li class="menu-item"><a class="menu-link" href="#section-about"><i class="bi-person"></i><div>About me</div></a></li>
 								<!-- 4th-Navigation-Icon -->
-								<li class="menu-item"><a class="menu-link" href="#footer"><i class="bi-grid"></i><div>Highlights</div></a></li>
+								<li class="menu-item"><a class="menu-link" href="#section-education"><i class="bi-grid"></i><div>Education</div></a></li>
+								<!-- 5th-Navigation-Icon -->
+								<li class="menu-item"><a class="menu-link" href="#section-articles"><i class="bi-pencil"></i><div>Projects</div></a></li>
 							</ul>
 						</nav>
 					</div>
@@ -155,7 +157,7 @@
 						<div class="video-overlay d-sm-block d-md-none" style="background: rgba(255,255,255,0.9);"></div>
 					</div>
 				</div>
-				<div class="section m-0 skill-area bg-color dark" style="padding: 80px 0;">
+				<div id="section-education" class="section m-0 skill-area bg-color dark" style="padding: 80px 0;">
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-4 col-md-6">
