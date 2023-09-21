@@ -1,11 +1,12 @@
 /* ----------------------------------------------------------------
 	Canvas: Resume
+	--cnvs-themecolor: #7b6ed6;
+	--cnvs-themecolor-rgb: 123, 110, 214;
 -----------------------------------------------------------------*/
 
 :root {
-	--cnvs-themecolor: grey;
-	--cnvs-themecolor-rgb: 123, 110, 214;
-
+	--cnvs-themecolor: #a9a9a9;
+	--cnvs-themecolor-rgb: 169, 169, 169;
 	--cnvs-body-font: 'Source Sans Pro', sans-serif;
 	--cnvs-primary-font: 'Playfair Display', serif;
 }
