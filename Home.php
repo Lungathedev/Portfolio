@@ -29,7 +29,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Document Title -->
-	<title>Portfolio</title>
+	<title>Lunga's resume</title>
 
 </head>
 
