@@ -271,7 +271,7 @@
 <div class="entry-box-shadow">
 <div class="entry-image mb-0">
 <!-- Project-1-image -->
-<a href="" data-lightbox="image"><img src="github1.png" alt="Project 1"></a>
+<a href="" data-lightbox="image"><img src="delivery.jpg" alt="Project 1"></a>
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
