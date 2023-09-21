@@ -3,7 +3,7 @@
 -----------------------------------------------------------------*/
 
 :root {
-	--cnvs-themecolor: #7B6ED6;
+	--cnvs-themecolor: grey;
 	--cnvs-themecolor-rgb: 123, 110, 214;
 
 	--cnvs-body-font: 'Source Sans Pro', sans-serif;
@@ -87,7 +87,7 @@
 
 .is-expanded-menu .menu-container > .menu-item:hover > .menu-link,
 .is-expanded-menu .menu-container > .menu-item.current > .menu-link {
-	background-color: grey;
+	background-color: #7b6ed6;
 	color: #FFF !important;
 }
 
