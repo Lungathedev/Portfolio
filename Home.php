@@ -7,8 +7,8 @@
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="x-ua-compatible" content="IE=edge">
-	<meta name="author" content=".">
-	<meta name="description" content="">
+	<meta name="author" content="Lungathedev">
+	<meta name="description" content="My personal resume.">
 
 	<!-- Font Imports -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -47,7 +47,7 @@
 					<div class="header-row">
 						<div id="logo">
 							<!-- Top-right-tile-text -->
-							<a class="font-secondary ls-3" style="line-height: 90px;">[Enter name]'s Portfolio</a>
+							<a class="font-secondary ls-3" style="line-height: 90px;">Lunga's resume</a>
 						</div>
 						<nav class="primary-menu">
 							<ul class="menu-container one-page-menu custom-spacing" data-easing="easeInOutExpo" data-speed="1250" data-offset="0">
@@ -71,9 +71,9 @@
 
 		<section class="min-vh-60 min-vh-md-100 include-header">
 			<!-- Top-Picture-1 -->
-			<div class="vh-100 vw-100 position-fixed" style="top: 0; left: 0; background: #FFF url('Skyscraper2.jpg') no-repeat top center; background-size: cover; background-attachment: fixed;"></div>
+			<div class="vh-100 vw-100 position-fixed" style="top: 0; left: 0; background: #FFF url('Top-background-picture.jpg') no-repeat top center; background-size: cover; background-attachment: fixed;"></div>
 			<!-- Top-Picture-2 -->
-			<div class="vh-100 vw-100 position-fixed blurred-img" style="top: 0; left: 0; background: #FFF url('Skyscraper2.jpg') no-repeat top center; background-size: cover; background-attachment: fixed;"></div>
+			<div class="vh-100 vw-100 position-fixed blurred-img" style="top: 0; left: 0; background: #FFF url('Top-background-picture.jpg') no-repeat top center; background-size: cover; background-attachment: fixed;"></div>
 		</section>
 
 		<!-- Content
@@ -85,12 +85,12 @@
 					<div class="container">
 						<div class="heading-block text-center">
 							<!-- Video-Heading -->
-							<h2 class="font-secondary">Allow me to introduce myself</h2>
+							<h2 class="font-secondary">My side of the story</h2>
 						</div>
 						<div style="margin: auto; display: block;">
-									<video poster="Profile4.avif" style="height: auto; width: 100%;" controls>
+									<video poster="Rocket-launch.jpeg" style="height: auto; width: 100%;" controls>
 									<!-- Video-Source-URL -->
-  									<source src="Video.mp4" type="video/mp4">
+  									<source src="fun.mp4" type="video/mp4">
  									Your browser does not support the video tag.
 									</video>
 						</div>
@@ -98,15 +98,15 @@
 					</div>
 				</div>
 				<!-- Bottom-Picture-1 -->
-				<div id="section-about" class="section page-section m-0" style="background: #EEE url('Profile3.avif') no-repeat center center; background-size: cover; padding: 100px 0">
+				<div id="section-about" class="section page-section m-0" style="background: #EEE url('Lower-background-picture.jpg') no-repeat center center; background-size: cover; padding: 100px 0">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-5 offset-md-7">
 								<div class="heading-block">
 									<!-- About-Me-Section-Header -->
-									<h2 class="font-secondary">About Me</h2>
+									<h2 class="font-secondary">Let's begin</h2>
 									<!-- About-Me-Section-Body-Text -->
-									<span>[Enter your description about yourself and your qualities.]</span>
+									<span>I am a web developer and entrepreneur who is addicted to creating amazing website templates that people can use to build websites for themselves. I create youtube videos that teach people how to download my website assests and use them to host their own websites that can be used to conduct marketing and demonstrations.</span>
 								</div>
 								<table class="table">
 									<tbody>
@@ -114,42 +114,42 @@
 											<!-- About-Me-Section-Body-Name-Prefix -->
 											<td class="border-top-0"><strong>Name:</strong></td>
 											<!-- About-Me-Section-Body-Name -->
-											<td class="border-top-0">[Enter name]</td>
+											<td class="border-top-0">Lunga</td>
 										</tr>
 										<tr>
 											<!-- About-Me-Section-Body-Gender-Prefix -->
 											<td><strong>Gender:</strong></td>
 											<!-- About-Me-Section-Body-Gender -->
-											<td>[Enter gender]</td>
+											<td>Male</td>
 										</tr>
 										<tr>
 											<!-- About-Me-Section-Body-Email-Prefix -->
 											<td><strong>Email:</strong></td>
 											<!-- About-Me-Section-Body-Email -->
-											<td>[Enter email]</td>
+											<td>lungathedev@gmail.com</td>
 										</tr>
 										<tr>
 											<!-- About-Me-Section-Body-Cell-number-Prefix -->
 											<td><strong>Phone:</strong></td>
 											<!-- About-Me-Section-Body-Cell-number -->
-											<td>[Enter cell number]</td>
+											<td>0641234569</td>
 										</tr>
 										<tr>
 											<!-- About-Me-Section-Body-Date-of-birth-Prefix -->
 											<td><strong>DOB:</strong></td>
 											<!-- About-Me-Section-Body-Date-of-birth -->
-											<td>[Enter date of birth]</td>
+											<td>1994-12-24</td>
 										</tr>
 										<tr>
 											<!-- About-Me-Section-Body-Nationality-Prefix -->
 											<td><strong>Nationality:</strong></td>
 											<!-- About-Me-Section-Body-Nationality -->
-											<td>[Enter nationality]</td>
+											<td>South African</td>
 										</tr>
 									</tbody>
 								</table>
 								<!-- Download CV button -->
-								<a href="[Enter CV file name]" class="button button-large button-border button-black button-dark ms-0"><i class="bi-cloud-download"></i> Download CV</a>
+								<a href="Cv of LL Magagula.pdf" class="button button-large button-border button-black button-dark ms-0"><i class="bi-cloud-download"></i> Download CV</a>
 							</div>
 						</div>
 					</div>
