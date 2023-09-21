@@ -252,80 +252,99 @@
 						</div>
 					</div>
 				</div>
-				<!-- Add project section -->
+		
+				<!-- Project section -->
 <div id="section-articles" class="section page-section m-0 bg-color" style="padding: 100px 0">
 <div class="container">
 <div class="dark">
 <div class="heading-block">
+<!-- Section-title-1 -->
 <h2 class="font-secondary">Projects</h2>
+<!-- Section-title-2 -->
 <span class="mt-0">completed</span>
 </div>
 </div>
 <div id="posts" class="post-grid row gutter-30 mb-0" data-layout="fitRows">
+<!-- Project-1 -->
 <div class="entry col-md-6 col-lg-4">
 <div class="grid-inner">
 <div class="entry-box-shadow">
 <div class="entry-image mb-0">
+<!-- Project-1-image -->
 <a href="" data-lightbox="image"><img src="github1.png" alt="Project 1"></a>
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
+<!-- Project-1-date-completed -->
 <a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
 </div>
 <div class="entry-title mt-1">
+<!-- Project-1-title -->
 <h2><a href="#">[Enter project title]</a></h2>
 </div>
 <div class="entry-content mt-4">
+<!-- Project-1-Description -->
 <p class="mb-0">[Enter project description]</p>
 </div>
 </div>
 </div>
 </div>
 </div>
+<!-- Project-2 -->
 <div class="entry col-md-6 col-lg-4">
 <div class="grid-inner">
 <div class="entry-box-shadow">
 <div class="entry-image mb-0">
+<!-- Project-2-image -->
 <a href="" data-lightbox="image"><img src="heroku.jpg" alt="Project 2"></a>
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
+<!-- Project-2-date-completed -->
 <a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
 </div>
 <div class="entry-title mt-1">
+<!-- Project-2-title -->
 <h2><a href="#">[Enter project title]</a></h2>
 </div>
 <div class="entry-content mt-4">
+<!-- Project-2-Description -->
 <p class="mb-0">[Enter project description]</p>
 </div>
 </div>
 </div>
 </div>
 </div>
+<!-- Project-3 -->
 <div class="entry col-md-6 col-lg-4">
 <div class="grid-inner">
 <div class="entry-box-shadow">
 <div class="entry-image mb-0">
+<!-- Project-3-image -->
 <a href="" data-lightbox="image"><img src="github2.jpeg" alt="Project 3"></a>
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
+<!-- Project-3-date-completed -->
 <a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
 </div>
 <div class="entry-title mt-1">
+<!-- Project-3-title -->
 <h2><a href="#">[Enter project title]</a></h2>
 </div>
 <div class="entry-content mt-4">
+<!-- Project-3-Description -->
 <p class="mb-0">[Enter project description]</p>
 </div>
 </div>
 </div>
 </div>
 </div>
+
 </div>
 </div>
 </div>
-				<!-- Add project section -->
+				<!-- Project section -->
 			</div>
 		</section><!-- #content end -->
 
