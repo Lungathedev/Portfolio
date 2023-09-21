@@ -296,7 +296,7 @@
 <div class="entry-box-shadow">
 <div class="entry-image mb-0">
 <!-- Project-2-image -->
-<a href="https://mandlaetfu.org.za/Home.php" data-lightbox="image"><img src="heroku.jpg" alt="Project 2"></a>
+<a href="https://mandlaetfu.org.za/Home.php" data-lightbox="image"><img src="donations.png" alt="Project 2"></a>
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
