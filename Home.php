@@ -200,23 +200,23 @@
 								<div class="skill-info">
 									<span>
 										<!-- About-Me-Section-Footer-Certification-First-Certifiaction-Name -->
-										[Enter name of qualification acquired]
+										Matric certificate
 										<br>
 										<!-- About-Me-Section-Footer-Certification-First-Certifiaction-Acquisition -->
-										[Enter name of insitution where qualification was acquired]
+										Deutsche Schule Pretoria
 										<br>
 										<!-- About-Me-Section-Footer-Certification-First-Certifiaction-Years -->
-										[Enter year qualification was acquired]
+										2012
 									</span>
 									<span>
 										<!-- About-Me-Section-Footer-Certification-Second-Certifiaction-Name -->
-										[Enter name of qualification acquired]
+										Cyber security certificate
 										<br>
 										<!-- About-Me-Section-Footer-Certification-Second-Certifiaction-Acquisition -->
-										[Enter name of insitution where qualification was acquired]
+										University of Johannesburg
 										<br>
 										<!-- About-Me-Section-Footer-Certification-Second-Certifiaction-Years -->
-										[Enter year qualification was acquired]
+										2023
 									</span>
 									
 								</div>
