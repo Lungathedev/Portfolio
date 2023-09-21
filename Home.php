@@ -276,15 +276,15 @@
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
 <!-- Project-1-date-completed -->
-<a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
+<a href="#" class="text-muted">Completed: Feb 14th, 2022</a>
 </div>
 <div class="entry-title mt-1">
 <!-- Project-1-title -->
-<h2><a href="#">[Enter project title]</a></h2>
+<h2><a href="http://kannabae.org.za/Port.php">Kannabae platform</a></h2>
 </div>
 <div class="entry-content mt-4">
 <!-- Project-1-Description -->
-<p class="mb-0">[Enter project description]</p>
+<p class="mb-0">A website application that is used as a tool to request free cannabis from a nonprofit company. The website is integrated with multiple user intefaces as well as databases that enable it coordinate personnel to take orders, prepare orders and deliver them.</p>
 </div>
 </div>
 </div>
