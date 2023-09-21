@@ -271,7 +271,7 @@
 <div class="entry-box-shadow">
 <div class="entry-image mb-0">
 <!-- Project-1-image -->
-<a href="" data-lightbox="image"><img src="delivery.jpg" alt="Project 1"></a>
+<a href="https://kannabae.org.za/Port.php" data-lightbox="image"><img src="delivery.jpg" alt="Project 1"></a>
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
@@ -280,7 +280,7 @@
 </div>
 <div class="entry-title mt-1">
 <!-- Project-1-title -->
-<h2><a href="http://kannabae.org.za/Port.php">Kannabae platform</a></h2>
+<h2><a href="https://kannabae.org.za/Port.php">Kannabae platform</a></h2>
 </div>
 <div class="entry-content mt-4">
 <!-- Project-1-Description -->
@@ -296,20 +296,20 @@
 <div class="entry-box-shadow">
 <div class="entry-image mb-0">
 <!-- Project-2-image -->
-<a href="" data-lightbox="image"><img src="heroku.jpg" alt="Project 2"></a>
+<a href="https://mandlaetfu.org.za/Home.php" data-lightbox="image"><img src="heroku.jpg" alt="Project 2"></a>
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
 <!-- Project-2-date-completed -->
-<a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
+<a href="#" class="text-muted">Completed: Nov 25th, 2021</a>
 </div>
 <div class="entry-title mt-1">
 <!-- Project-2-title -->
-<h2><a href="#">[Enter project title]</a></h2>
+<h2><a href="https://mandlaetfu.org.za/Home.php">Mandla Etfu NPO website application</a></h2>
 </div>
 <div class="entry-content mt-4">
 <!-- Project-2-Description -->
-<p class="mb-0">[Enter project description]</p>
+<p class="mb-0">A website application that informs people about a nonprofit that is able to raise donation funding by enabling visitors to use the integrated payment methods to make donations. The website has been built with an additional feature that enables donors to leave a special message after they have donated that shows in the donation records displayed on the website.</p>
 </div>
 </div>
 </div>
