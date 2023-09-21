@@ -1,2 +1,2 @@
-<?php header('Location: https://mandlaetfu.org.za/Home.php');
+<?php header('Location: Home.php');
 ?>
