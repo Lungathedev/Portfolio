@@ -316,30 +316,7 @@
 </div>
 </div>
 <!-- Project-3 -->
-<div class="entry col-md-6 col-lg-4">
-<div class="grid-inner">
-<div class="entry-box-shadow">
-<div class="entry-image mb-0">
-<!-- Project-3-image -->
-<a href="" data-lightbox="image"><img src="github2.jpeg" alt="Project 3"></a>
-</div>
-<div class="entry-meta-wrapper">
-<div class="entry-meta my-0">
-<!-- Project-3-date-completed -->
-<a href="#" class="text-muted">[Enter date completed eg.March 25th, 2021]</a>
-</div>
-<div class="entry-title mt-1">
-<!-- Project-3-title -->
-<h2><a href="#">[Enter project title]</a></h2>
-</div>
-<div class="entry-content mt-4">
-<!-- Project-3-Description -->
-<p class="mb-0">[Enter project description]</p>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 
 </div>
 </div>
