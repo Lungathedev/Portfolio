@@ -166,30 +166,30 @@
 								<div class="skill-info">
 									<span>
 										<!-- About-Me-Section-Footer-Education-Primary-School-Name -->
-										[Enter name of primary school]
+										Glenstantia primary school
 										<br>
 										Primary
 										<br>
 										<!-- About-Me-Section-Footer-Education-Primary-School-Years -->
-										[Enter years attended eg. 2000 - 2007]
+										2000 - 2007
 									</span>
 									<span>
 										<!-- About-Me-Section-Footer-Education-High-School-Name -->
-										[Enter name of High school]
+										Deutsche Schule Pretoria
 										<br>
 										High school
 										<br>
 										<!-- About-Me-Section-Footer-Education-High-School-Years -->
-										[Enter years attended eg. 2000 - 2007]
+										2008 - 2012
 									</span>
 									<span>
 										<!-- About-Me-Section-Footer-Education-University-Name -->
-										[Enter name of University]
+										University of Johannesburg
 										<br>
 										University
 										<br>
 										<!-- About-Me-Section-Footer-Education-University-Years -->
-										[Enter years attended eg. 2000 - 2007]
+										2023
 									</span>
 								</div>
 							</div>
