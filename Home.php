@@ -227,23 +227,23 @@
 								<div class="skill-info">
 									<span>
 										<!-- About-Me-Section-Footer-Experience-First-Job-Name -->
-										[Enter title/position held]
+										Freelance web developer
 										<br>
 										<!-- About-Me-Section-Footer-Certification-First-Job-Organization -->
-										[Enter name of company]
+										freelancer.com
 										<br>
 										<!-- About-Me-Section-Footer-Certification-First-Job-Years -->
-										[Enter years worked eg. 2000 - 2007]
+										2020 - 2023
 									</span>
 									<span>
 										<!-- About-Me-Section-Footer-Experience-Second-Job-Name -->
-										[Enter title/position held]
+										Founder/CEO
 										<br>
 										<!-- About-Me-Section-Footer-Certification-Second-Job-Organization -->
-										[Enter name of company]
+										Kahrent sites (Pty) Ltd
 										<br>
 										<!-- About-Me-Section-Footer-Certification-Second-Job-Years -->
-										[Enter years worked eg. 2000 - 2007]
+										2023
 									</span>
 									
 								</div>
