@@ -87,7 +87,7 @@
 
 .is-expanded-menu .menu-container > .menu-item:hover > .menu-link,
 .is-expanded-menu .menu-container > .menu-item.current > .menu-link {
-	background-color: #7B6ED6;
+	background-color: grey;
 	color: #FFF !important;
 }
 
