@@ -336,10 +336,10 @@
 					<div class="row col-mb-50">
 						<div class="col-lg-3">
 							<!-- Footer-Section-Header-Name -->
-							<div class="footer-logo"><span class="fw-normal color ls-1" style="font-size: 22px; ">[Enter name]</span>
+							<div class="footer-logo"><span class="fw-normal color ls-1" style="font-size: 22px; ">Lungathedev</span>
 							<br>
 							<!-- Footer-Section-Header-Job title/Resume -->
-							<small class="ls-3 text-uppercase" style="color: rgba(255,255,255,0.2);">[Enter title]</small></div>
+							<small class="ls-3 text-uppercase" style="color: rgba(255,255,255,0.2);">Content creator</small></div>
 						</div>
 
 						<div class="col-lg-9">
