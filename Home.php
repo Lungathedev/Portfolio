@@ -154,10 +154,11 @@
 						</div>
 					</div>
 					<div class="video-wrap">
-						<div class="video-overlay d-sm-block d-md-none" style="background: rgba(255,255,255,0.9);"></div>
+					<!--	<div class="video-overlay d-sm-block d-md-none" style="background: rgba(255,255,255,0.9);"></div>  -->
+						<div class="video-overlay d-sm-block d-md-none" style="background: grey;"></div>
 					</div>
 				</div>
-				<div id="section-education" class="section m-0 skill-area bg-color dark" style="padding: 80px 0; color: grey;">
+				<div id="section-education" class="section m-0 skill-area bg-color dark" style="padding: 80px 0;">
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-4 col-md-6">
