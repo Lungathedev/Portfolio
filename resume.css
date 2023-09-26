@@ -1,12 +1,16 @@
 /* ----------------------------------------------------------------
 	Canvas: Resume
-	--cnvs-themecolor: #7b6ed6;
-	--cnvs-themecolor-rgb: 123, 110, 214;
+	--cnvs-themecolor: #a9a9a9;
+	--cnvs-themecolor-rgb: 169, 169, 169;
 -----------------------------------------------------------------*/
 
 :root {
-	--cnvs-themecolor: #a9a9a9;
-	--cnvs-themecolor-rgb: 169, 169, 169;
+
+/* ------ Theme color settings 1 ------*/
+	--cnvs-themecolor: #7b6ed6;
+/* ------ Theme color settings 2 ------*/
+	--cnvs-themecolor-rgb: 123, 110, 214;
+	
 	--cnvs-body-font: 'Source Sans Pro', sans-serif;
 	--cnvs-primary-font: 'Playfair Display', serif;
 }
@@ -88,7 +92,10 @@
 
 .is-expanded-menu .menu-container > .menu-item:hover > .menu-link,
 .is-expanded-menu .menu-container > .menu-item.current > .menu-link {
-	background-color: #a9a9a9;
+	
+/* ------ Button menu color settings ------*/
+	background-color: #7b6ed6;;
+
 	color: #FFF !important;
 }
 
