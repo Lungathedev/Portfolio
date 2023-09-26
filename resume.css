@@ -3,12 +3,10 @@
 -----------------------------------------------------------------*/
 
 :root {
-
 /* ------ Theme color settings 1 ------*/
 	--cnvs-themecolor: #7b6ed6;
 /* ------ Theme color settings 2 ------*/
 	--cnvs-themecolor-rgb: 123, 110, 214;
-	
 	--cnvs-body-font: 'Source Sans Pro', sans-serif;
 	--cnvs-primary-font: 'Playfair Display', serif;
 }
@@ -17,7 +15,6 @@
 	z-index: 299;
 	--cnvs-header-border-color: transparent;
 }
-
 .menu-container > .menu-item > .menu-link i {
 	display: none;
 }
@@ -93,7 +90,6 @@
 	
 /* ------ Button menu color settings ------*/
 	background-color: #7b6ed6;;
-
 	color: #FFF !important;
 }
 
