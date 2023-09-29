@@ -233,10 +233,7 @@
 								<div class="skill-info">
 									<span>
 										<!-- About-Me-Section-Footer-Experience-First-Job-Name -->
-										Freelance web developer
-										<br>
-										<!-- About-Me-Section-Footer-Certification-First-Job-Organization -->
-										freelancer.com
+										Freelance web app developer
 										<br>
 										<!-- About-Me-Section-Footer-Certification-First-Job-Years -->
 										2020 - 2023
