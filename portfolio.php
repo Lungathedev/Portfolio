@@ -8,7 +8,7 @@
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="x-ua-compatible" content="IE=edge">
 	<meta name="author" content="Lungathedev">
-	<meta name="description" content="Portfolio website">
+	<meta name="description" content="Portfolio website.">
 
 	<!-- Font Imports -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
