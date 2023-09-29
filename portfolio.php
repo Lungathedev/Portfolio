@@ -240,18 +240,7 @@
 										<br>
 										<!-- About-Me-Section-Footer-Certification-First-Job-Years -->
 										2020 - 2023
-									</span>
-									<span>
-										<!-- About-Me-Section-Footer-Experience-Second-Job-Name -->
-										Founder/CEO
-										<br>
-										<!-- About-Me-Section-Footer-Certification-Second-Job-Organization -->
-										Kahrent sites (Pty) Ltd
-										<br>
-										<!-- About-Me-Section-Footer-Certification-Second-Job-Years -->
-										2023
-									</span>
-									
+									</span>	
 								</div>
 							</div>
 							<div class="w-100 mb-5 d-block d-lg-none clear"></div>
