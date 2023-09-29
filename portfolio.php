@@ -88,7 +88,7 @@
 							<h2 class="font-secondary">My side of the story</h2>
 						</div>
 						<div style="margin: auto; display: block;">
-									<video poster="Rocket-launch.jpeg" style="height: auto; width: 100%;" controls>
+									<video poster="vidthumbnail.png" style="height: auto; width: 100%;" controls>
 									<!-- Video-Source-URL -->
   									<source src="fun.mp4" type="video/mp4">
  									Your browser does not support the video tag.
