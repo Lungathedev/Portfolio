@@ -90,7 +90,7 @@
 						<div style="margin: auto; display: block;">
 									<video poster="vidthumbnail.png" style="height: auto; width: 100%;" controls>
 									<!-- Video-Source-URL -->
-  									<source src="fun.mp4" type="video/mp4">
+  									<source src="https://res.cloudinary.com/ddjrcafre/video/upload/v1690984747/Kannabae_video_edit_Completed_vbsd76.mp4" type="video/mp4">
  									Your browser does not support the video tag.
 									</video>
 						</div>
@@ -272,11 +272,11 @@
 </div>
 <div class="entry-title mt-1">
 <!-- Project-1-title -->
-<h2><a href="https://kannabae.org.za/Port.php">The kannabae website applicatio</a></h2>
+<h2><a href="https://kannabae.org.za/Port.php">The kannabae website application</a></h2>
 </div>
 <div class="entry-content mt-4">
 <!-- Project-1-Description -->
-<p class="mb-0">A website application that is used as a tool to request free cannabis from the Mandla Etfu nonprofit organization. The website is integrated with multiple user intefaces as well as databases that enable it coordinate personnel to take orders, prepare orders and deliver them. It operates using a similar algorithim to uber eats. Someone orders, the orders gets prepared and then delivered with the whole process coordinated on one platform.<br><a href="">View demo video</a></p>
+<p class="mb-0">A website application that is used as a tool to request free cannabis from the Mandla Etfu nonprofit organization. The website is integrated with multiple user intefaces as well as databases that enable it coordinate personnel to take orders, prepare orders and deliver them. It operates using a similar algorithim to uber eats. Someone orders, the orders gets prepared and then delivered with the whole process coordinated on one platform.<br><a href="#section-skills">View demo video</a></p>
 </div>
 </div>
 </div>
@@ -297,7 +297,7 @@
 </div>
 <div class="entry-title mt-1">
 <!-- Project-2-title -->
-<h2><a href="https://mandlaetfu.org.za/Home.php">Mandla Etfu NPO website application</a></h2>
+<h2><a href="https://mandlaetfu.org.za/Home.php">The Mandla Etfu NPO website application</a></h2>
 </div>
 <div class="entry-content mt-4">
 <!-- Project-2-Description -->
