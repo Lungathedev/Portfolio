@@ -47,7 +47,7 @@
 					<div class="header-row">
 						<div id="logo">
 							<!-- Top-right-tile-text -->
-							<a class="font-secondary ls-3" style="line-height: 90px;">Welcome to my portfolio website! Scroll down and let's get acquainted</a>
+							<a class="font-secondary ls-3" style="line-height: 90px;">Welcome!</a>
 						</div>
 						<nav class="primary-menu">
 							<ul class="menu-container one-page-menu custom-spacing" data-easing="easeInOutExpo" data-speed="1250" data-offset="0">
