@@ -71,9 +71,9 @@
 
 		<section class="min-vh-60 min-vh-md-100 include-header">
 			<!-- Top-Picture-1 -->
-			<div class="vh-100 vw-100 position-fixed" style="top: 0; left: 0; background: #FFF url('Top-background-picture.jpg') no-repeat top center; background-size: cover; background-attachment: fixed;"></div>
+			<div class="vh-100 vw-100 position-fixed" style="top: 0; left: 0; background: #FFF url('Lunga.png') no-repeat top center; background-size: cover; background-attachment: fixed;"></div>
 			<!-- Top-Picture-2 -->
-			<div class="vh-100 vw-100 position-fixed blurred-img" style="top: 0; left: 0; background: #FFF url('Top-background-picture.jpg') no-repeat top center; background-size: cover; background-attachment: fixed;"></div>
+			<div class="vh-100 vw-100 position-fixed blurred-img" style="top: 0; left: 0; background: #FFF url('Lunga.png') no-repeat top center; background-size: cover; background-attachment: fixed;"></div>
 		</section>
 
 		<!-- Content
