@@ -150,7 +150,7 @@
 											<!-- About-Me-Section-Body-Github-Link-Prefix -->
 											<td><strong>Github:</strong></td>
 											<!-- About-Me-Section-Body-Github-Link -->
-											<td><a href="#">lungathedev</a></td>
+											<td><a href="https://github.com/Lungathedev">lungathedev</a></td>
 										</tr>
 									</tbody>
 								</table>
