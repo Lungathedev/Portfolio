@@ -155,7 +155,7 @@
 									</tbody>
 								</table>
 								<!-- Download CV button -->
-								<a href="Cv of LL Magagula.pdf" class="button button-large button-border button-black button-dark ms-0"><i class="bi-cloud-download"></i> Download CV</a>
+								<a href="LungathedevCV.pdf" class="button button-large button-border button-black button-dark ms-0"><i class="bi-cloud-download"></i> Download CV</a>
 							</div>
 						</div>
 					</div>
