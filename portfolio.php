@@ -271,7 +271,7 @@
 <div class="entry-box-shadow">
 <div class="entry-image mb-0">
 <!-- Project-1-image -->
-<a href="https://kannabae.org.za/Port.php" data-lightbox="image"><img src="delivery.jpg" alt="Project 1"></a>
+<a href="https://kannabae.org.za/Port.php" data-lightbox="image"><img src="kannabae.png" alt="Project 1"></a>
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
@@ -296,7 +296,7 @@
 <div class="entry-box-shadow">
 <div class="entry-image mb-0">
 <!-- Project-2-image -->
-<a href="https://mandlaetfu.org.za/Home.php" data-lightbox="image"><img src="donations.png" alt="Project 2"></a>
+<a href="https://mandlaetfu.org.za/Home.php" data-lightbox="image"><img src="mandlaetfu.png" alt="Project 2"></a>
 </div>
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
