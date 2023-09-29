@@ -360,6 +360,11 @@
 												<i class="fa-brands fa-twitter"></i>
 												<i class="fa-brands fa-twitter"></i>
 											</a>
+											<!-- Footer-Section-Socials-Youtube -->
+											<a href="#" class="social-icon si-small bg-white bg-opacity-25 h-bg-youtube">
+												<i class="fa-brands fa-youtube"></i>
+												<i class="fa-brands fa-youtube"></i>
+											</a>
 										</div>
 									</div>
 								</div>
