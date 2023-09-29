@@ -271,15 +271,15 @@
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
 <!-- Project-1-date-completed -->
-<a href="#" class="text-muted">Completed: Feb 14th, 2022</a>
+<a href="#" class="text-muted">Completed: Aug, 2023</a>
 </div>
 <div class="entry-title mt-1">
 <!-- Project-1-title -->
-<h2><a href="https://kannabae.org.za/Port.php">Kannabae platform</a></h2>
+<h2><a href="https://kannabae.org.za/Port.php">The kannabae website applicatio</a></h2>
 </div>
 <div class="entry-content mt-4">
 <!-- Project-1-Description -->
-<p class="mb-0">A website application that is used as a tool to request free cannabis from a nonprofit company. The website is integrated with multiple user intefaces as well as databases that enable it coordinate personnel to take orders, prepare orders and deliver them.</p>
+<p class="mb-0">A website application that is used as a tool to request free cannabis from the Mandla Etfu nonprofit organization. The website is integrated with multiple user intefaces as well as databases that enable it coordinate personnel to take orders, prepare orders and deliver them. It operates using a similar algorithim to uber eats. Someone orders, the orders gets prepared and then delivered with the whole process coordinated on one platform.<br><a href="">View demo video</a></p>
 </div>
 </div>
 </div>
@@ -296,7 +296,7 @@
 <div class="entry-meta-wrapper">
 <div class="entry-meta my-0">
 <!-- Project-2-date-completed -->
-<a href="#" class="text-muted">Completed: Nov 25th, 2021</a>
+<a href="#" class="text-muted">Completed: March, 2023</a>
 </div>
 <div class="entry-title mt-1">
 <!-- Project-2-title -->
