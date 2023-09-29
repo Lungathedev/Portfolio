@@ -126,13 +126,13 @@
 											<!-- About-Me-Section-Body-Email-Prefix -->
 											<td><strong>Email:</strong></td>
 											<!-- About-Me-Section-Body-Email -->
-											<td>lungathedev@gmail.com</td>
+											<td>lunga.magagula01@gmail.com</td>
 										</tr>
 										<tr>
 											<!-- About-Me-Section-Body-Cell-number-Prefix -->
 											<td><strong>Phone:</strong></td>
 											<!-- About-Me-Section-Body-Cell-number -->
-											<td>0641234569</td>
+											<td>067 353 0222</td>
 										</tr>
 										<tr>
 											<!-- About-Me-Section-Body-Date-of-birth-Prefix -->
@@ -145,6 +145,12 @@
 											<td><strong>Nationality:</strong></td>
 											<!-- About-Me-Section-Body-Nationality -->
 											<td>South African</td>
+										</tr>
+										<tr>
+											<!-- About-Me-Section-Body-Github-Link-Prefix -->
+											<td><strong>Github:</strong></td>
+											<!-- About-Me-Section-Body-Github-Link -->
+											<td><a href="#">lungathedev</a></td>
 										</tr>
 									</tbody>
 								</table>
