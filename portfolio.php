@@ -85,7 +85,7 @@
 					<div class="container">
 						<div class="heading-block text-center">
 							<!-- Video-Heading -->
-							<h2 class="font-secondary">The kannabae web app demo video</h2>
+							<h2 class="font-secondary">Web app demo video</h2>
 						</div>
 						<div style="margin: auto; display: block;">
 									<video poster="vidthumbnail.png" style="height: auto; width: 100%;" controls>
