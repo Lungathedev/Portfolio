@@ -341,11 +341,6 @@
 												<i class="fa-brands fa-linkedin"></i>
 												<i class="fa-brands fa-linkedin"></i>
 											</a>
-											<!-- Footer-Section-Socials-Twitter -->
-											<a href="https://twitter.com/LungaGagula" class="social-icon si-small bg-white bg-opacity-25 h-bg-twitter">
-												<i class="fa-brands fa-twitter"></i>
-												<i class="fa-brands fa-twitter"></i>
-											</a>
 											<!-- Footer-Section-Socials-Youtube -->
 											<a href="#" class="social-icon si-small bg-white bg-opacity-25 h-bg-youtube">
 												<i class="fa-brands fa-youtube"></i>
