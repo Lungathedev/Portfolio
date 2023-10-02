@@ -112,6 +112,7 @@
 									<!-- About-Me-Section-Header -->
 									<h2 class="font-secondary">Tech stack</h2>
 									<!-- About-Me-Section-Body-Text -->
+									<img title="PHP" alt="PHP" src="php.png" width="30px">
 									</div>
 								<table class="table">
 									<tbody>
