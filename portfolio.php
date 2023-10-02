@@ -112,8 +112,9 @@
 									<!-- About-Me-Section-Header -->
 									<h2 class="font-secondary">Tech stack</h2>
 									<!-- About-Me-Section-Body-Text -->
-									<img title="PHP" alt="PHP" src="php.png" width="60px">
-									<img title="HTML/JavaScript/CSS" alt="HTML/JavaScript/CSS" src="html.png" width="60px">
+									<img title="PHP" alt="PHP" src="php.png" width="180px">
+									<img title="HTML/JavaScript/CSS" alt="HTML/JavaScript/CSS" src="html.png" width="180px">
+									<img title="MySQL" alt="MySQL" src="MySQL.png" width="180px">
 									</div>
 								<table class="table">
 									<tbody>
