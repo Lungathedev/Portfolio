@@ -106,7 +106,7 @@
 									<!-- About-Me-Section-Header -->
 									<h2 class="font-secondary">Let's begin</h2>
 									<!-- About-Me-Section-Body-Text -->
-									<span>I am a web developer and entrepreneur who is addicted to creating amazing website templates that people can use to build websites for themselves. I create youtube videos that teach people how to download my website assests and use them to host their own websites that can be used to conduct marketing and demonstrations.</span>
+									<span>I am a full stack web developer specializing in building dynamic interactive website applications that may be used for multiple business applications such as ecommerce, SaaS (software-as-a-service), marketing, data collection as well as business process automation.</span>
 								</div>
 								<table class="table">
 									<tbody>
