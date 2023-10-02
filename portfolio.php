@@ -112,12 +112,12 @@
 									<!-- About-Me-Section-Header -->
 									<h2 class="font-secondary">Tech stack</h2>
 									<!-- About-Me-Section-Body-Text -->
-									<img title="PHP" alt="PHP" src="php.png" width="180px">
-									<img title="HTML/JavaScript/CSS" alt="HTML/JavaScript/CSS" src="html.png" width="180px"><br>
-									<img title="MySQL" alt="MySQL" src="MySQL.png" width="180px">
-									<img title="React js" alt="React js" src="react.png" width="180px"><br>
-									<img title="Node js" alt="Node js" src="Node.png" width="180px">
-									<img title="C#" alt="C#" src="C.png" width="180px">
+									<img title="PHP" alt="PHP" src="php.png" width="160px">
+									<img title="HTML/JavaScript/CSS" alt="HTML/JavaScript/CSS" src="html.png" width="160px"><br>
+									<img title="MySQL" alt="MySQL" src="MySQL.png" width="160px">
+									<img title="React js" alt="React js" src="react.png" width="160px"><br>
+									<img title="Node js" alt="Node js" src="Node.png" width="160px">
+									<img title="C#" alt="C#" src="C.png" width="160px">
 									</div>
 								<table class="table">
 									<tbody>
