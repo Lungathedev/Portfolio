@@ -115,6 +115,9 @@
 									<img title="PHP" alt="PHP" src="php.png" width="180px"><br>
 									<img title="HTML/JavaScript/CSS" alt="HTML/JavaScript/CSS" src="html.png" width="180px"><br>
 									<img title="MySQL" alt="MySQL" src="MySQL.png" width="180px">
+									<img title="React js" alt="React js" src="react.png" width="180px"><br>
+									<img title="Node js" alt="Node js" src="Node.png" width="180px"><br>
+									<img title="C#" alt="C#" src="C#.png" width="180px">
 									</div>
 								<table class="table">
 									<tbody>
