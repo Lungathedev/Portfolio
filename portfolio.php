@@ -112,6 +112,7 @@
 									<!-- About-Me-Section-Header -->
 									<h2 class="font-secondary">Tech stack</h2>
 									<!-- About-Me-Section-Body-Text -->
+									<br>
 									<img title="PHP" alt="PHP" src="php.png" width="160px">
 									<img title="HTML/JavaScript/CSS" alt="HTML/JavaScript/CSS" src="html.png" width="160px"><br>
 									<img title="MySQL" alt="MySQL" src="MySQL.png" width="160px">
@@ -269,7 +270,7 @@
 </div>
 <div class="entry-content mt-4">
 <!-- Project-1-Description -->
-<p class="mb-0">A website application that is used as a tool to request free cannabis from the Mandla Etfu nonprofit organization. The website is integrated with multiple user intefaces as well as databases that enable it coordinate personnel to take orders, prepare orders and deliver them. It operates using a similar algorithim to uber eats. Someone orders, the orders gets prepared and then delivered with the whole process coordinated on one platform.<br><br><a href="#section-skills">View demo video</a></p>
+<p class="mb-0">A website application that is used as a tool to request free cannabis from the Mandla Etfu nonprofit organization. The website is integrated with multiple user intefaces as well as databases that enable it coordinate personnel to take orders, prepare orders and deliver them. It operates using a similar algorithim to uber eats. Someone orders, the orders gets prepared and then delivered with the whole process coordinated on one platform.<br><br><a href="#section-skills">View demo video</a><br><a href="#section-skills">View source code</a></p>
 </div>
 </div>
 </div>
@@ -294,7 +295,7 @@
 </div>
 <div class="entry-content mt-4">
 <!-- Project-2-Description -->
-<p class="mb-0">A website application that informs people about a nonprofit that is able to raise donation funding by enabling visitors to use the integrated payment methods to make donations. The website has been built with an additional feature that enables donors to leave a special message after they have donated that shows in the donation records displayed on the website.</p>
+<p class="mb-0">A website application that informs people about a nonprofit that is able to raise donation funding by enabling visitors to use the integrated payment methods to make donations. The website has been built with an additional feature that enables donors to leave a special message after they have donated that shows in the donation records displayed on the website.<br><br><a href="#section-skills">View source code</a></p>
 </div>
 </div>
 </div>
