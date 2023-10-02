@@ -85,7 +85,7 @@
 					<div class="container">
 						<div class="heading-block text-center">
 							<!-- Video-Heading -->
-							<h2 class="font-secondary">My side of the story</h2>
+							<h2 class="font-secondary">The kannabae web app demo video</h2>
 						</div>
 						<div style="margin: auto; display: block;">
 									<video poster="vidthumbnail.png" style="height: auto; width: 100%;" controls>
@@ -108,6 +108,11 @@
 									<!-- About-Me-Section-Body-Text -->
 									<span>I am a full stack web developer specializing in building dynamic interactive website applications that may be used for multiple business applications such as ecommerce, SaaS (software-as-a-service), marketing, data collection as well as business process automation.</span>
 								</div>
+								<div class="heading-block">
+									<!-- About-Me-Section-Header -->
+									<h2 class="font-secondary">Tech stack</h2>
+									<!-- About-Me-Section-Body-Text -->
+									</div>
 								<table class="table">
 									<tbody>
 										<tr>
@@ -115,12 +120,6 @@
 											<td class="border-top-0"><strong>Name:</strong></td>
 											<!-- About-Me-Section-Body-Name -->
 											<td class="border-top-0">Lunga</td>
-										</tr>
-										<tr>
-											<!-- About-Me-Section-Body-Gender-Prefix -->
-											<td><strong>Gender:</strong></td>
-											<!-- About-Me-Section-Body-Gender -->
-											<td>Male</td>
 										</tr>
 										<tr>
 											<!-- About-Me-Section-Body-Email-Prefix -->
@@ -133,18 +132,6 @@
 											<td><strong>Phone:</strong></td>
 											<!-- About-Me-Section-Body-Cell-number -->
 											<td>067 353 0222</td>
-										</tr>
-										<tr>
-											<!-- About-Me-Section-Body-Date-of-birth-Prefix -->
-											<td><strong>DOB:</strong></td>
-											<!-- About-Me-Section-Body-Date-of-birth -->
-											<td>1994-12-24</td>
-										</tr>
-										<tr>
-											<!-- About-Me-Section-Body-Nationality-Prefix -->
-											<td><strong>Nationality:</strong></td>
-											<!-- About-Me-Section-Body-Nationality -->
-											<td>South African</td>
 										</tr>
 										<tr>
 											<!-- About-Me-Section-Body-Github-Link-Prefix -->
@@ -276,7 +263,7 @@
 </div>
 <div class="entry-content mt-4">
 <!-- Project-1-Description -->
-<p class="mb-0">A website application that is used as a tool to request free cannabis from the Mandla Etfu nonprofit organization. The website is integrated with multiple user intefaces as well as databases that enable it coordinate personnel to take orders, prepare orders and deliver them. It operates using a similar algorithim to uber eats. Someone orders, the orders gets prepared and then delivered with the whole process coordinated on one platform.<br><a href="#section-skills">View demo video</a></p>
+<p class="mb-0">A website application that is used as a tool to request free cannabis from the Mandla Etfu nonprofit organization. The website is integrated with multiple user intefaces as well as databases that enable it coordinate personnel to take orders, prepare orders and deliver them. It operates using a similar algorithim to uber eats. Someone orders, the orders gets prepared and then delivered with the whole process coordinated on one platform.<br><br><a href="#section-skills">View demo video</a></p>
 </div>
 </div>
 </div>
