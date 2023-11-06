@@ -4,7 +4,15 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US" style="scroll-behavior: smooth;">
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JSD5LYPPH9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-JSD5LYPPH9');
+</script>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="x-ua-compatible" content="IE=edge">
 	<meta name="author" content="Lungathedev">
