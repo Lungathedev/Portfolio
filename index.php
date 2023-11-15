@@ -1,2 +1,2 @@
-<?php header('Location: https://lungathedev.site/portfolio.php');
+<?php header('Location: portfolio.php');
 ?>
